@@ -1,0 +1,24 @@
+ACTIVIDAD 3
+Crear una tabla I
+Mediante el uso de la interfaz gráfica de phpMyAdmin diseñar e implementar una tabla.
+PARTE 1: Crear base de datos.
+Crear una base de datos llamada “actividad3”.
+PARTE 2: Crear tabla.
+En ICSE tenemos que gestionar la entrega de libros de cada materia. Para ello necesitamos
+almacenar la información de los libros entregados y a quien (alumno):
+- Nombre: No nulo.
+- Apellido 1: No nulo.
+- Apellido 2: Puede ser nulo.
+- DNI.
+- Correo.
+- Recibido el libro o no (Un campo para cada libro).
+Es importante que un mismo alumno no pueda aparecer por duplicado en nuestra base de
+datos y que no haya un alumno sin DNI o sin correo.
+NOTA: Establecer un ID autoincremental que nos haga las veces de clave primaria de la tabla.
+PARTE 3: Insertar información.
+Para insertar la correspondiente información simplemente recopilaremos la información de los
+compañeros e iremos insertando cada registro en la tabla (5 registros).La entrega de esta tarea se realizará vía Moodle y mediante un documento en pdf con
+los pasos realizados y con el siguiente formato de nombre:
+Actividad3_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+Actividad3_Hadriel_Fernando_Quintero_Ceballos.pdf
