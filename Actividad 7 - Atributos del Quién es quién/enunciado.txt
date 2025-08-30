@@ -1,0 +1,23 @@
+ACTIVIDAD 7
+Atributos del Quién es quién
+Una parte interesante del diseño de base de datos es el hecho de elegir los atributos
+apropiados de cada entidad.
+En esta actividad practicaremos la selección de atributos importantes, así como el tipo de
+datos a elegir para su implementación.
+El popular juego de quién es quién se basa en adivinar el personaje que has elegido haciendo
+una serie de preguntas sencillas sobre cada uno de los personajes.Se pide:
+- Diseñar un esquema (modelo E-R) de base de datos que permita recrear una partida del
+quién es quién.
+- Implementar una base de datos que permita recrear una partida del quién es quién.
+A tener en cuenta:
+- Añadir tantos atributos como sean necesarios para permitir diferenciar los personajes,
+mínimo 10.
+- Añadir un indicador de que el personaje ha sido descartado.
+Prueba:
+- Probar el correcto funcionamiento del modelo echando una partida con un compañero.La entrega de esta tarea se realizará vía Moodle y mediante un archivo comprimido con:
+- Un documento .pdf con el diagrama modelo Entidad-Relación y la prueba.
+- El código .sql
+y con el siguiente formato de nombre:
+Actividad7_Nombre_Apellido1_Apellido2.rar
+Ejemplo:
+Actividad7_Hadriel_Fernando_Quintero_Ceballos.rar
