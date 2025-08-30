@@ -1,0 +1,28 @@
+ACTIVIDAD 9
+Repaso
+1- Realizar el modelo E/R con las tres entidades siguientes:
+- ALUMNO (NumMatrícula, Nombre, FechaNacimiento, Teléfono)
+- ASIGNATURA (CodAsignatura, Nombre)
+- PROFESOR (id, Nombre, DNI, Especialidad, Teléfono)
+Teniendo en cuenta:
+- Un alumno puede estar matriculado en una o varias asignaturas.
+- Un alumno puede estar matriculado en la misma asignatura más de un curso escolar
+(repetidor).
+- Se quiere saber el curso escolar en el que cada alumno está matriculado de cada asignatura.
+- Una asignatura es impartida por un único profesor.
+- Un profesor puede impartir varias asignaturas.
+2- Realizar el modelo E/R con las tres entidades siguientes:
+- REGIÓN (CodRegion, Nombre)
+- PROVINCIA (CodProvincia, Nombre)
+- LOCALIDAD (Codlocalidad, Nombre)
+- EMPLEADO (id, Nombre, Apellidos, DNI, Teléfono, Salario)
+Se quiere guardar información de la localidad donde ha nacido cada uno de los empleados
+teniendo en cuenta que:
+- Un empleado ha nacido en una sola localidad.
+- Cada localidad pertenece a una única provincia.
+- Cada provincia pertenece a una única región del país.
+3- Realizar el modelo relacional de los ejercicios anteriores.La entrega de esta tarea se realizará vía Moodle y mediante un archivo .pdf y con el
+siguiente formato de nombre:
+Actividad9_Nombre_Apellido1_Apellido2.sql
+Ejemplo:
+Actividad9_Hadriel_Fernando_Quintero_Ceballos.sql
