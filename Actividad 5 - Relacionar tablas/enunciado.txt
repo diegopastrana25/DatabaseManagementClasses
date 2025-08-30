@@ -1,0 +1,19 @@
+ACTIVIDAD 5
+Relacionar tablas
+Cómo podemos ver en el documento adjunto, la información aparece representada como una
+sola tabla. No obstante, si nos fijamos bien, podemos ver que la información aparece
+claramente segmentada de forma que podemos y debemos separarla en 2 tablas siguiendo el
+esquema E-R (Entidad Relación) que podemos ver a continuación:
+En esta actividad vamos a implementar en SQL el código necesario que nos va a permitir
+implementar ambas tablas. No es necesario utilizar demasiados campos, pondremos el
+nombre y el id con las restricciones que conocemos y a continuación insertaremos información
+para poder verificar la relación entre los diferentes elementos.
+Insertar 5 continentes y 2 países por continente para comprobar que ha funcionado
+correctamente nuestro SQL.
+Una vez tengas insertados algunos elementos, hacer lo siguiente:
+- Elimina algún país. ¿Pasa algo?
+- Ahora prueba a eliminar un continente ¿Pasa algo?La entrega de esta tarea se realizará vía Moodle y mediante un documento .sql con los
+comandos utilizados y con el siguiente formato de nombre:
+Actividad5_Nombre_Apellido1_Apellido2.sql
+Ejemplo:
+Actividad5_Hadriel_Fernando_Quintero_Ceballos.sql
