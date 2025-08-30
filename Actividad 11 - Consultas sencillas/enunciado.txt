@@ -1,0 +1,28 @@
+ACTIVIDAD 11
+Consultas sencillas
+Antes de meternos de lleno en las consultas multitabla es importante que tener claras las
+consultas básicas a una sola tabla, es por ello que en esta actividad vamos a trabajar estos
+conceptos.
+Dada la base de datos “W3SchoolsDemoDB” en “Recursos” realizar, en el CMD, las siguientes
+consultas:
+1 - El nombre (CustomerName) de los 3 últimos Customers ordenados por el ID.
+2 - El número de clientes cuyo nombre empieza por A.
+3 - La lista de Customers ordenada por el país. Orden alfabético.
+4 - La lista de Customers de forma que no se repitan clientes de un mismo país.
+5 - De la lista de productos, seleccionar el nombre y el precio de los 5 productos de más bajo
+coste.
+6 - De la lista de Clientes traerte los clientes cuyo id esté entre 2 y 4 ambos incluidos
+7 - De la lista de Suppliers (proveedores) traerte aquellos en cuya dirección tenga al menos dos
+palabras (un espacio)
+8 - Los Suppliers agrupados por su country y ordenados alfabéticamente por el nombre del
+país.
+9 - El nombre y los apellidos de los 3 empleados más mayores (según su fecha de nacimiento)
+10 - El precio medio de los todos los productos que hay.
+Responder los enunciados de la siguiente manera:
+Enunciado
+Sentencia de la consulta.
+Captura de la respuesta en CMDLa entrega de esta tarea se realizará vía Moodle y mediante un archivo .pdf y con el
+siguiente formato de nombre:
+Actividad11_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+Actividad11_Hadriel_Fernando_Quintero_Ceballos.pdf
