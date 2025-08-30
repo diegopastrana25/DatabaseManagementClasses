@@ -1,0 +1,43 @@
+ACTIVIDAD 6
+Hemodonación
+Se pretende diseñar una base de datos para el sistema interno de donación de sangre dentro
+del territorio Nacional.
+En el siguiente cuadro se especifican los tipos de sangre que hay, así como las
+correspondientes compatibilidades:
+TIPO DE SANGRE
+A+
+A-
+B+
+B-
+AB+
+AB-
+O+
+O-
+PUEDE DONAR A
+A+ AB+
+A+ A- AB+ AB-
+B+ AB+
+B+ B- AB+ AB-
+AB+
+AB+ AB-
+A+ B+ AB+ O+
+TODOS
+PUEDE RECIBIR DE
+O+ O- A+ A-
+O- A-
+O+ O- B+ B-
+O- B-
+TODOS
+AB- O- A- B-
+O+ O-
+O-
+Se pide:
+- Diseñar un esquema de base de datos que permita almacenar la información de
+compatibilidad entre donantes.
+- Añadir al esquema las tablas necesarias para añadir los usuarios donantes y los usuarios
+donados de forma que se pueda registrar quién ha donado a quién, el tipo de sangre donada,
+así como las fechas de la donación, transfusión y dirección donde fue almacenada.La entrega de esta tarea se realizará vía Moodle y mediante un documento .pdf con el
+diagrama modelo Entidad-Relación y con el siguiente formato de nombre:
+Actividad6_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+Actividad6_Hadriel_Fernando_Quintero_Ceballos.pdf
