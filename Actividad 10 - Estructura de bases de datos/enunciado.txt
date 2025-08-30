@@ -1,0 +1,25 @@
+ACTIVIDAD 10
+Estructura de bases de datos
+Tras haber visto el diagrama E-R de bases de datos pasamos al siguiente nivel, en esta ocasión
+vamos a intentar crear un modelo de diagrama de tablas, pero partiendo de un determinado
+diagrama E-R.
+El diagrama de tablas guarda una correspondencia directa con el SQL y es un paso intermedio
+entre este y el diagrama Entidad Relación. Se utiliza ya no solo para diseñar una base de datos,
+sino que también sirve de guía para dibujar cómo está representada una base de datos sobre
+un papel.
+Los campos marcados con indicadores que empiezan por "I" (ej: "I1") se refieren a índices. Los
+índices generan información adicional para facilitar la localización más rápida de registros
+basándose en esos campos. Por ejemplo, en la tabla de empleados (Employees) existe un
+índice "I1" del que forman parte los campos Nombre y Apellidos (en negrita además porque
+serán también valores únicos) y que indica que se va a facilitar la locación de los clientes
+mediante esos datos. También tiene otro índice "I2" en el campo del código postal para
+localizar más rápidamente a todos los clientes de una determinada zona.Los campos marcados con indicadores que empiezan con "U" (por ejemplo U1) se refieren a
+campo que deben ser únicos. Por ejemplo, en la tabla de categorías el nombre de ésta
+(CategoryName) debe ser único, es decir, no puede haber -lógicamente- dos categorías con el
+mismo nombre.
+Se pide:
+- Implementar el diagrama de tablas en SQLLa entrega de esta tarea se realizará vía Moodle y mediante un archivo .sql y con el
+siguiente formato de nombre:
+Actividad10_Nombre_Apellido1_Apellido2.sql
+Ejemplo:
+Actividad10_Hadriel_Fernando_Quintero_Ceballos.sql
