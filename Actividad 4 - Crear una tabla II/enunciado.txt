@@ -1,0 +1,22 @@
+ACTIVIDAD 4
+Crear una tabla II
+Mediante el uso de comandos SQL diseñar e implementar una tabla.
+PARTE 1: Crear base de datos.
+Crear una base de datos llamada “actividad4”.
+PARTE 2: Crear tabla.
+En ICSE tenemos que gestionar el tallaje de los alumnos para la entrega de sudaderas. Para ello
+necesitamos almacenar la información de las tallas de los alumnos:
+- id: Clave primaria y auto incremental.
+- Nombre: No nulo.
+- Apellido 1: No nulo.
+- Apellido 2: Puede ser nulo.
+- DNI: No Nulo y Único.
+- Correo: No nulo.
+- Talla de la sudadera: NO NULO y por defecto pondremos la talla ‘L’.
+PARTE 3: Insertar información.
+Para insertar la correspondiente información simplemente recopilaremos la información de los
+compañeros e iremos insertando cada registro en la tabla (5 registros).La entrega de esta tarea se realizará vía Moodle y mediante un documento .sql con los
+comandos utilizados y con el siguiente formato de nombre:
+Actividad4_Nombre_Apellido1_Apellido2.sql
+Ejemplo:
+Actividad4_Hadriel_Fernando_Quintero_Ceballos.sql
