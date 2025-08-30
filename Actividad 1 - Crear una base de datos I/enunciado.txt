@@ -1,0 +1,20 @@
+Crear una base de datos I
+Como hemos visto, a la hora de crear una base de datos tenemos que elegir los tipos de datos
+a utilizar antes de insertar nada. Es por ello que esta actividad vamos a trabajar a través de
+sentencias SQL en consola, realizando:
+PARTE 1: Crear base de datos.
+Crear una base de datos llamada “actividad1”.
+PARTE 2: Crear tabla.
+Se pretende almacenar información relativa a una serie de películas que nos han
+recomendado. De cada película nos interesa almacenar los siguientes aspectos fundamentales:
+- Título.
+- Año de la película.
+- Productora.
+- Sinopsis.
+- Valoración (1, 2 o 3 estrellas).
+- Si la hemos visto o no.
+- Recaudación en taquilla.
+PARTE 3: Insertar información.
+Si hemos creado la base de datos correctamente, vamos a proceder a probar lo que hemos
+hecho insertando algunos registros de prueba con lo que trabajar. Insertaremos 5 registros
+para comprobar que el sistema ha funcionado correctamente.
