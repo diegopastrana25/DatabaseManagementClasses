@@ -1,0 +1,37 @@
+Consultas con join sobre el modelo taller
+Realizar, sobre el modelo E-R del taller, expuesto en el ejercicio de repaso del segundo
+parcial del primer semestre, las siguientes consultas:
+1. Muestra todas las partes junto con la información del coche al que están asociadas.
+2. Muestra todas las partes y la información del coche al que están asociadas, incluso si
+no hay coincidencias en la tabla coches.
+3. Muestra todas las partes y la información del coche al que están asociadas, incluso si
+no hay coincidencias en la tabla partes.
+4. Muestra todas las partes y la información del coche al que están asociadas, incluyendo
+aquellas partes que no tienen un coche asociado y viceversa.
+5. Muestra la información de los repuestos y la información del coche al que están
+asociados.
+Cada consulta valdrá la quinta parte de la nota, teniéndose en cuenta las restricciones de
+formato del documento y de evidencia de cada una de ellas.
+Indicaciones adicionales.
+Pueden utilizar cualquier cliente para conectarse a la base de datos (phpMyAdmin, MySQL
+Workbench, el comando mysql de consola…).
+Pueden orientarse de Cabot, J. (2022), tal y como se expone en la Figura 1.
+Figura 1.
+Tipos de joins.
+Fuente: Cabot, J. (2022).La memoria e informe debe contener: portada (título de la actividad o práctica, una imagen,
+nombre y apellidos, titulación, asignatura y curso académico), un índice (pueden hacerlo con
+tablas de contenido en Word), introducción breve de la práctica o actividad, desarrollo por
+apartados y conclusiones, así como posibles anexos. Pueden utilizar cualquier formato de letra,
+siempre y cuando sea homogéneo en el documento, así como tamaños de letra adecuados (11-
+14 puntos). Recordar que, cualquier información externa utilizada, debe citarse, intentando
+respetar el formato APA 7ª edición.
+Adjuntar capturas de pantalla de los resultados, así como las consultas realizadas. Pueden ir
+como Anexo de la memoria o informe.
+La entrega de esta tarea se realizará vía Moodle y mediante un documento .pdf con el siguiente
+formato de nombre:
+GBD_ConsultasJoinTaller_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+GBD_ConsultasJoinTaller _Jose_Francisco_Lorenzo_Hernandez.pdf
+Referencias
+Cabot, J. (2022). Todos los tipos de join en SQL – Guía de referencia rápida. Ingeniería
+del Software. https://ingenieriadesoftware.es/tipos-sql-join-guia-referencia/
