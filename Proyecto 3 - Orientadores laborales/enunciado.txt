@@ -1,0 +1,40 @@
+PROYECTO 3
+Orientadores laborales
+Los Opea son los orientadores laborales que el SCE pone a disposición de la gente sin empleo
+para que les ayude y oriente de cara a formación laboral y a como reinsertarse en el mercado.
+La forma que tiene de trabajar es la siguiente. Cada Opea tiene los siguientes datos:
+- Nombre.
+- Apellidos.
+- DNI.
+- Usuario y contraseña del Sispecan.
+- Correo institucional.
+- Correo personal.
+- Dirección de la oficina.
+A parte de esto, los Opea se clasifican en dos tipos: ADMINISTRATIVOS y ORIENTADORES.
+Cada persona que acude al servicio, tiene asignado un Opea y cada Opea tiene asignado varios
+usuarios.
+Por cada usuario y cada Opea hay concertada una cita en la que se pone fecha y hora de la
+misma.
+Cada usuario tiene una experiencia laboral de forma que por cada empleo que haya tenido se
+debe poner la siguiente información:
+- Puesto de trabajo/ cargo.
+- Descripción del puesto de trabajo.
+- Sector del trabajo [Primario, secundario o terciario].
+- Fecha de comienzo del mismo.
+- Fecha de finalización del mismo.
+Los Usuarios, tienen los siguientes elementos almacenados:
+- Nombre.
+- Apellidos.
+- DNI.
+- Nº de la SS (si es que lo tiene).
+- Fecha de inicio del desempleo.
+- Fecha de renovación del darde.
+- Fecha de nacimiento.
+- Género.Se pide:
+- Modelo E-R.
+- Modelo Relacional.
+- Implementación en SQ.La entrega de esta tarea se realizará vía Moodle y mediante un archivo comprimido con
+todo lo que se pide y con el siguiente formato de nombre:
+Proyecto3_Nombre_Apellido1_Apellido2.rar
+Ejemplo:
+Proyecto3_Hadriel_Fernando_Quintero_Ceballos.rar
