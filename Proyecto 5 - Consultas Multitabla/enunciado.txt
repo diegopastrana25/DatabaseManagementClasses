@@ -1,0 +1,23 @@
+PROYECTO 5
+Consultas Multitabla
+Ejecutar el contenido del archivo “tutoriales.sql” y realizar, sin hacer uso de JOINS, las
+siguientes consultas:
+1 - Publicaciones recientes.
+2 - Publicaciones más antiguas.
+3 - Las 10 publicaciones más recientes.
+4 - Publicaciones hechas entre un rango de fechas determinado.
+5 - Publicaciones hechas por un usuario determinado (Dashawn Renner).
+6 - Publicaciones hechas con una serie de etiquetas (HTML y CSS).
+7 - Los 5 usuarios más activos (los que más publicaciones hayan hecho).
+8 - La cantidad de publicaciones que hay en total.
+9 - Listar el nombre de los usuarios con la cantidad de publicaciones que ha hecho cada uno.
+10 - Listar el nombre de los usuarios con su determinado rol.
+11 - Listar las etiquetas ordenadas por la cantidad de publicaciones que tengan.
+Responder los enunciados de la siguiente manera:
+Enunciado.
+Sentencia de la consulta.
+Captura de la respuesta en phpmyadmin.La entrega de esta tarea se realizará vía Moodle y mediante un archivo .pdf y con el
+siguiente formato de nombre:
+Proyecto5_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+Proyecto5_Hadriel_Fernando_Quintero_Ceballos.pdf
