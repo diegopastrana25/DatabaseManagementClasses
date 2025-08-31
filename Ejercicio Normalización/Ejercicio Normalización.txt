@@ -1,0 +1,5 @@
+1. Del ejemplo 2.19 del libro, crea el modelo E-R previo a la normalización y de todas las formas normales expuestas.
+
+2. Realiza la actividad 2.8. Dibuja también los modelos E-R. No es necesario que implementes el SQL ni realizar consultas.
+
+Recuerda hacer el modelo de informe o memoria según lo comentado en clase.
