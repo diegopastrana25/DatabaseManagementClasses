@@ -1,0 +1,39 @@
+PROYECTO 4
+Carreras
+En este proyecto vamos a proponer un diseño de base de datos que ayude a organizadores de
+carreras a poder gestionar las inscripciones del evento.
+El modelo que nos han comentado tiene el siguiente enunciado:
+La carrera en sí tiene 4 modalidades:
+- 3 km - carrera accesible
+- 10 km - carrera popular
+- 21 km - media maratón
+- 42 km – maratón
+Cada carrera consta de los siguientes elementos:
+- Tiempo mínimo en ser completada (record).
+- Tiempo máximo en ser completada antes del cierre del evento.
+- Número máximo de participantes.
+- Fecha de realización de la prueba.
+Además, las carreras tienen diferentes categorías:
+- Por edad: Infantil, Júnior, Master y Senior.
+- Por género: masculino o femenino.
+- Por empresas: clasifica a los participantes si corren por una empresa o de forma individual.
+Para cada carrera, tenemos inscripciones de los participantes. Un participante puede
+inscribirse en varias modalidades, pero sólo una en cada modalidad. De cada participante, al
+comité le interesa conocer los siguientes elementos:
+- Nombre y apellidos.
+- DNI.
+- Edad.
+- Género.
+- Dirección.
+- Nacionalidad.
+- Número de dorsal.
+- Si está federado dentro de algún club y si es así, de cual.
+- Número de dorsal asignado.Se pide:
+- Modelo E-R.
+- Implementación en SQL.
+- Insertar como mínimo 1 corredor dentro de cada categoría para verificar el correcto
+funcionamiento de la base de datos.La entrega de esta tarea se realizará vía Moodle y mediante un archivo comprimido con
+todo lo que se pide y con el siguiente formato de nombre:
+Proyecto4_Nombre_Apellido1_Apellido2.rar
+Ejemplo:
+Proyecto4_Hadriel_Fernando_Quintero_Ceballos.rar
