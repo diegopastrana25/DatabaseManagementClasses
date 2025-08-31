@@ -1,0 +1,12 @@
+El proyecto debe tener el formato de informe o memoria comentado en clase. Crear una base de datos que reuna los siguientes requisitos:
+
+Debe tener al menos, una relación 1:1, dos 1:M y 2 M:M.
+Dibujar el modelo entidad-relación y el diagrama.
+Generar el .sql con la creación de las tablas y los inserts de prueba.
+Hacer tres updates en diferentes campos de diferentes tablas.
+Hacer un delete.
+Configurar las claves para que en un caso se borre en cascada y otro en set null.
+Debe realizarse dos consultas con cada uno de los tipos de joins.
+Utilizar dos veces las claúsulas group by, having, where y like.
+Aplicar normalización donde sea necesario. No se admitirán relaciones no normalizadas.
+Utilizar, al menos, una clave compuesta.
