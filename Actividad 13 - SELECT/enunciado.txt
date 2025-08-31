@@ -1,0 +1,24 @@
+ACTIVIDAD 13
+SELECT
+Como sabemos el SELECT es la sentencia de SQL que nos permite realizar las consultas de
+búsqueda dentro de una base de datos.
+Dada la base de datos “world_db.sql” realizar, en el CMD, las siguientes consultas:
+1 - Toda la información de las ciudades de España.
+2 - El nombre de todas las ciudades de Francia.
+3 - Las 10 primeras ciudades de España ordenadas por orden alfabético.
+4 - Las 10 primeras ciudades de España que empiecen por ‘M’ pero que no esté Madrid.
+5 - Todas las ciudades que pertenezcan a España o a Francia que tengan menos de 5 letras.
+6 - Contar la cantidad de veces que está la ciudad de Madrid y Barcelona en la base de datos.
+7 - Contar el número de países cuyo nombre son dos palabras o más.
+8 - El nombre de los países, cuyo nombre, empiezan y terminan por ‘A’.
+9 - El nombre de la ciudad cuyo id sea 250344.
+10 - Haciendo uso del INSERT, introduce en la base de datos un país inventado por ti con su
+correspondiente código (también inventado) y añádele 5 ciudades (también inventadas por ti).
+Responder los enunciados de la siguiente manera:
+Enunciado
+Sentencia de la consulta.
+Captura de la respuesta en CMDLa entrega de esta tarea se realizará vía Moodle y mediante un archivo .pdf y con el
+siguiente formato de nombre:
+Actividad13_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+Actividad13_Hadriel_Fernando_Quintero_Ceballos.pdf
