@@ -1,0 +1,45 @@
+PROYECTO 2
+Dos tablas
+A la hora de trabajar con bases de datos hemos visto que es necesario, en ocasiones, hacer uso
+de varias tablas para almacenar una determinada información, sobre todo, si vemos el caso en
+el que esa información se va a repetir o clasificar. En este proyecto vamos a intentar satisfacer
+la siguiente demanda:
+PARTE 1
+Se pretende almacenar la información de los elementos de la tabla periódica dentro de una
+base de datos. De cada elemento nos interesa almacenar la siguiente información:
+- Nombre del elemento.
+- Identificador del elemento.
+- Símbolo.
+- Número.
+- Masa atómica.
+- Grupo del elemento.
+- Periodo.
+Para ahorrar tiempo, ya tenemos hecha la Query (adjunto en Moodle) que permite hacer la
+inserción de la información dentro del sistema. Lo único que tenemos que hacer aquí es crear
+la tabla con la información correspondiente.
+PARTE 2
+Los elementos de la tabla periódica se pueden clasificar en función del tipode elemento que
+son:
+- Metales alcalinos (Alkali metals).
+- Metales alcalinotérreos (Alkaline earth metals).
+- Lantánidos (Lanthanides).
+- Actínidos (Actinide).
+- Metales de transición (Pransition metals).
+- Metales postransicionales (Post-transition metals).
+- Metaloides (Metalloids).
+- No metales (No metals).
+- Halógenos (Halogens).
+- Gases Nobles (Noble gases).
+En esta parte vamos a crear una segunda tabla dentro de la base de datos en la cual vamos a
+especificar el tipo de elemento así como una descripción del mismo.
+Hay que crear la relación entre ambas tablas de forma que podamos obtener los elementos
+según su clasificación.Hacer el SQL de la base de datos desde cero sin utilizar la interfaz de phpMyAdmin, es decir,
+mediante sentencias.
+Se valorará:
+- La correcta estructura del código y el buen nombrado de los elementos.
+- La funcionalidad de la tabla.
+- La correcta selección de los tipos de datos y restricciones.La entrega de esta tarea se realizará vía Moodle y mediante un documento .sql con los
+comandos utilizados y con el siguiente formato de nombre:
+Proyecto2_Nombre_Apellido1_Apellido2.sql
+Ejemplo:
+Proyecto2_Hadriel_Fernando_Quintero_Ceballos.sql
