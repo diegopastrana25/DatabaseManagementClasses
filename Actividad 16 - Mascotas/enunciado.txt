@@ -1,0 +1,20 @@
+ACTIVIDAD 16
+Mascotas
+Ejecutar el contenido del archivo “animalworld.sql” y realizar mediante JOINS las siguientes
+consultas:
+1 - Mostar el nombre de los dueños que tengan mascotas.
+2 - Mostar el nombre de los dueños que tengan mascotas que sean pájaros.
+3 - ¿Cuántos dueños tienen mascotas que sean pájaros?
+4 - Mostar el nombre de los dueños que tengan mascotas y el nombre de las mismas.
+5 - Mostar el nombre de las mascotas que tengan dueños y el nombre de los mismos.
+6 - Mostar el nombre de las mascotas que no tengan dueños.
+7 - Mostrar los dueños que tengan gatos.
+8 - Mostrar el dueño de la mascota llamada Connors.
+Responder los enunciados de la siguiente manera:
+Enunciado.
+Sentencia de la consulta.
+Captura de la respuesta en phpmyadmin.La entrega de esta tarea se realizará vía Moodle y mediante un archivo .pdf y con el
+siguiente formato de nombre:
+Actividad16_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+Actividad16_Hadriel_Fernando_Quintero_Ceballos.pdf
