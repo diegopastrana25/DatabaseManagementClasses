@@ -1,0 +1,71 @@
+ACTIVIDAD DE REPASO DEL SEGUNDO PARCIAL DEL PRIMER TRIMESTRE
+Parte 1.
+Se pretende generar una base de datos llamada “taller” en la que se almacene información
+acerca de un taller de mecánica de coches. Nos han encargado la parte de la relación entre
+coches, mecánicos y partes de avería. Sabemos que los coches y los partes tienen los siguientes
+campos:
+Coches (marca, modelo, matrícula):
+Renault, Megane, 9876DMG
+Nissan, Micra, 6785FXJ
+Toyota, Yaris, 3452HJM
+Partes (id_mecánico, fecha entrada, fecha salida):
+10, 18/12/2023, 19/12/2023
+20, 17/12/2023,
+30, 20/12/2023,
+Se sabe que el primer vehículo de la lista está registrado en el taller, pero no tiene partes
+asociados, el segundo tiene el primer y tercer parte asociado, y el segundo es del tercer
+vehículo.
+Implementar también una tabla de mecánicos con nombre de mecánico y especialidad
+(electrónica o mecánica). Insertar, al menos, un mecánico de electrónica y otro de mecánica.
+Tipo de datos y restricciones: Implementar en SQL de las tablas que se corresponden eligiendo
+el tipo de dato a utilizar para cada campo, así como la longitud del mismo y elegir las
+restricciones necesarias para que la información sea lo más consistente posible de acuerdo al
+enunciado (1,5 puntos).
+Inserción de la información: Insertar los registros correspondientes. (0,5 punto).
+Modelo E-R: Implementar el Modelo E-R con las entidades, los atributos necesarios, las
+relaciones y las cardinalidades. No es necesario realizar el diagrama del modelo. (1 puntos).
+Consultas: Realizar una consulta en la que se vean los partes y a los coches a los que pertenecen.
+No mostrar los coches sin partes (1 punto).Parte 2.
+Continuamos con el ejercicio del taller. Ahora nos han encargado hacer la relación entre los
+partes y respuestos y consumibles.
+Los partes los tenemos del ejercicio anterior.
+Repuestos y consumibles (nombre, cantidad_stock):
+Aceite 5w50, 100
+Bomba de agua, 3
+Kit de correa de distribución, 2
+Se sabe que el segundo vehículo vino por un cambio de aceite y se le pusieron 5 litros, luego
+vino por un cambio de bomba de agua, y el tercer vehículo vino por un cambio de correa de
+distribución y bomba de agua (se ha hecho una simplificación de la problemática para estos
+fines). Tenga en cuenta que la cantidad_stock se da antes de generar los partes.
+Tipo de datos y restricciones: Implementar en SQL de las tablas que se corresponden eligiendo
+el tipo de dato a utilizar para cada campo así como la longitud del mismo y elegir las
+restricciones necesarias para que la información sea lo más consistente posible de acuerdo al
+enunciado. (2 puntos).
+Inserción y actualización de la información: Insertar y relacionar los partes y los repuestos y
+consumibles. Haga las actualizaciones que crea necesarias. (2 punto).
+Modelo E-R: Implementar el Modelo E-R con las entidades, los atributos necesarios, las
+relaciones y las cardinalidades. No es necesario realizar el diagrama del modelo. (1 punto).
+Consultas: Realizar una consulta en la que se vean los partes y los repuestos y consumibles
+asociados (1 punto).Indicaciones adicionales.
+Pueden utilizar cualquier cliente para conectarse a la base de datos (phpMyAdmin, MySQL
+Workbench, el comando mysql de consola…).
+Aquellos estudiantes que no tengan dificultades pueden ir realizando consultas con otros tipos
+de joins. Pueden orientarse de Cabot, J. (2022), tal y como se expone en la Figura 1.
+Figura 1. Tipos de joins.
+Fuente: Cabot, J. (2022).
+La memoria e informe debe contener: portada (título de la actividad o práctica, una imagen,
+nombre y apellidos, titulación, asignatura y curso académico), un índice (pueden hacerlo con
+tablas de contenido en Word), introducción breve de la práctica o actividad, desarrollo por
+apartados y conclusiones, así como posibles anexos. Pueden utilizar cualquier formato de letra,
+siempre y cuando sea homogéneo en el documento, así como tamaños de letra adecuados (11-
+14 puntos). Recordar que, cualquier información externa utilizada, debe citarse, intentando
+respetar el formato APA 7ª edición.Adjuntar capturas de pantalla de los resultados (tabla con los datos insertados), así como las
+consultas realizadas. Pueden ir como Anexo de la memoria o informe.
+La entrega de esta tarea se realizará vía Moodle y mediante un documento .pdf con el siguiente
+formato de nombre:
+GBD_Repaso1T_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+GBD_Repaso1T_Jose_Francisco_Lorenzo_Hernandez.pdf
+Referencias
+Cabot, J. (2022). Todos los tipos de join en SQL – Guía de referencia rápida. Ingeniería
+del Software. https://ingenieriadesoftware.es/tipos-sql-join-guia-referencia/
