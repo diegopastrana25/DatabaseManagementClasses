@@ -1,0 +1,29 @@
+ACTIVIDAD 12
+Videoclub
+Se pretende gestionar un videoclub a través de una aplicación web. Las aplicaciones web,
+simplemente ofrecen una interfaz visual para hacer uso de las diferentes consultas que están
+dentro del propio código.
+En esta actividad vamos a intentar emular el funcionamiento de este tipo de aplicaciones, pero
+partiendo de una base de datos ya creada
+Implementar la base de datos y, en el CMD, realizar las siguientes consultas:
+1 - Consultar el código, nombre y fecha de ingreso en el videoclub de los socios con apellido
+López.
+2 - ¿Cuántas personas se hicieron socias en el último trimestre de 2010?
+3 - Consultar los datos de los socios ordenados por la fecha de ingreso.
+4 - ¿Cuál es el precio medio de una película en el videoclub?
+5 - ¿Cuántas películas están por encima del precio medio?
+6 - Consultar los préstamos que han tenido una duración superior a dos días, visualizando el
+nombre del socio y el título de la película.
+7 - Consultar el nombre de los socios que han alquilado la película “Desperado”.
+8 - Mostrar la lista de socios y la cantidad de películas que han alquilado.
+9 - Mostrar el precio que ha pagado el socio número 1 al alquilar la película 4.
+10 - Mostrar la lista de películas que no han sido alquiladas.
+Responder los enunciados de la siguiente manera:
+Enunciado
+Sentencia de la consulta.
+Captura de la respuesta en CMDLa entrega de esta tarea se realizará vía Moodle y mediante un archivo comprimido con
+un archivo .sql con la base de datos y un archivo .pdf con las consultas y con el siguiente
+formato de nombre:
+Actividad12_Nombre_Apellido1_Apellido2.rar
+Ejemplo:
+Actividad12_Hadriel_Fernando_Quintero_Ceballos.rar
