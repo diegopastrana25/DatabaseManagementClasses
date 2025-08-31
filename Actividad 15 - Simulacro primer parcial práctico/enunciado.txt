@@ -1,0 +1,23 @@
+ACTIVIDAD 15
+Simulacro primer parcial práctico
+Usando la base de datos adjunta a la actividad realizar, en phpmyadmin, las siguientes
+consultas:
+1 - Listar las oficinas con la cantidad de empleados que trabajan en cada una de ellas.
+2 - Listar los clientes que compran a los empleados de las oficinas de USA.
+3 - Listar a los empleados por la cantidad de clientes que atienden.
+4 - El nombre de los clientes que han hecho un pago por debajo de la media de pagos.
+5 - El nombre del producto (products.productName) y la descripción del mismo
+(productlines.textDescription).
+6 - Los nombres de los clientes han comprado una '1969 Harley Davidson Ultimate Chopper'.
+7 - ¿Qué vendedores han realizado ventas?
+8 - El nombre del producto más vendido de 2004.
+9 - Listar las 2 oficinas con más empleados.
+10 - Listar Los empleados con su correspondiente gerente (reportsTo)
+Responder los enunciados de la siguiente manera:
+Enunciado.
+Sentencia de la consulta.
+Captura de la respuesta en phpmyadmin.La entrega de esta tarea se realizará vía Moodle y mediante un archivo .pdf y con el
+siguiente formato de nombre:
+Actividad15_Nombre_Apellido1_Apellido2.pdf
+Ejemplo:
+Actividad15_Hadriel_Fernando_Quintero_Ceballos.pdf
